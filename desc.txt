@@ -1,0 +1,7 @@
++create a empty repo on Github
++create a file locally
++connect our repo and local folder
+-create a structure of files and dirs
+-see very intensive a template
+-create a structure in index.html
+
